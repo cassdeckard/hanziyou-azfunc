@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "hanzi_find": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7139",
+      "launchBrowser": false
+    }
+  }
+}
